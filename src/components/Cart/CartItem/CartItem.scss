@@ -1,0 +1,85 @@
+.cart-products{
+    flex-grow: 1;
+    .cart-product{
+        display: flex;
+        padding: 30px 15px;
+        gap: 80px;
+        .img-container{
+            background-color: rgba(0,0,0,0.5);
+            width: 60px;
+            height: 80px;
+            flex-shrink: 0;
+            img{
+                width: 150%;
+                height: 120%;
+
+            }
+        }
+        .prod-details{
+            overflow: hidden;
+            
+            position: relative;
+            .name{
+                padding-left: 5px;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+                overflow: hidden;
+                font-size: 16px;
+                line-height: 1;
+                margin-bottom: 10px;
+                font-weight: 600;
+                display: block;
+                
+               
+            }
+             .text{
+                    display: flex;
+                    align-items: center;
+                    gap: 5px;
+                    font-size: 15px;
+                    font-weight: 600;
+                    .lineHeight{
+                        color: #8e2;
+                    }
+                }
+                svg{
+                    position: absolute;
+                    top: 0;
+                    right: 0;
+                }
+                .quanlity-buttons{
+                        width: fit-content;
+                        
+                        display: flex;
+                        border: 2px solid rgba(0,0,0,0.2);
+                        margin-right: 10px;
+                        height: 150px;
+                       
+                        span{
+                            font-size: 18px;
+                            width: 40px;
+                            display: flex;
+                            align-items: center;
+                            justify-content: center;
+                            cursor: pointer;
+                            color: #6b6b6b;
+                            &:nth-child(1){
+                            border-right: 2px solid rgba(0,0,0,0.2);
+                            font-size: 28px;
+                            }
+                            &:nth-child(2){
+                                width: 60px;
+                            }
+                            &:nth-child(3){
+                                border-left: 2px solid rgba(0,0,0,0.2);
+                                font-size: 28px;
+                            }
+                        }
+                    }
+
+        }
+        &:hover{
+           background-color: rgba(0,0,0,0.06);
+        }
+    }
+}

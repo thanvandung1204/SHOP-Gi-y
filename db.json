@@ -1,0 +1,237 @@
+{
+  "user": [
+    {
+      "id": 2,
+      "email": "thanhdo9xi@gmail.com"
+    },
+    {
+      "email": "thanhdo9xi@gmail.com",
+      "password": "thanhdo21",
+      "confirmPassword": "thanhdo21",
+      "id": 3
+    },
+    {
+      "email": "thanhdo9xi@gmail.com",
+      "password": "thanhdo21",
+      "id": 4
+    },
+    {
+      "email": "dovtph24172@fpt.edu.vn",
+      "password": "xxxxxxxx",
+      "id": 5
+    },
+    {
+      "email": "thanhdo9xi@gmail.com",
+      "password": "xxxxxx",
+      "id": 6
+    },
+    {
+      "email": "dovtph24172@fpt.edu.vn",
+      "password": "xxxxxx",
+      "id": 7
+    },
+    {
+      "email": "thanhdo9xi@gmail.com",
+      "password": "thanhdo21",
+      "id": 8
+    }
+  ],
+  "products": [
+    {
+      "image": "/image/1.webp",
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "price": 7000,
+      "name": "Giày Air Vans 4 Retro",
+      "id": 1
+    },
+    {
+      "id": 27,
+      "name": "Giày Air Jordan 4 Retro ",
+      "price": 2000,
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "image": "/image/2.webp"
+    },
+    {
+      "id": 26,
+      "name": "Giày Air Jordan 4 Retro ",
+      "price": 2000,
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "image": "/image/3.jpeg"
+    },
+    {
+      "id": 25,
+      "name": "Giày Air Jordan 4 Retro ",
+      "price": 2000,
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "image": "/image/4.webp"
+    },
+    {
+      "id": 24,
+      "name": "Giày Air Jordan 4 Retro ",
+      "price": 2000,
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "image": "/image/5.jpeg"
+    },
+    {
+      "id": 23,
+      "name": "Giày Air Jordan 4 Retro ",
+      "price": 2000,
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "image": "/image/6.webp"
+    },
+    {
+      "id": 22,
+      "name": "Giày Air Jordan 4 Retro ",
+      "price": 2000,
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "image": "/image/7.webp"
+    },
+    {
+      "id": 21,
+      "name": "Giày Air Jordan 4 Retro ",
+      "price": 2000,
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "image": "/image/8.webp"
+    },
+    {
+      "id": 20,
+      "name": "Giày Air Jordan 4 Retro ",
+      "price": 2000,
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "image": "/image/9.webp"
+    },
+    {
+      "id": 19,
+      "name": "Giày Air Jordan 4 Retro ",
+      "price": 2000,
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "image": "/image/10.webp"
+    },
+    {
+      "id": 18,
+      "name": "Giày Air Jordan 4 Retro ",
+      "price": 2000,
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "image": "/image/11.webp"
+    },
+    {
+      "id": 17,
+      "name": "Giày Air Jordan 4 Retro ",
+      "price": 2000,
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "image": "/image/12.webp"
+    },
+    {
+      "id": 16,
+      "name": "Giày Air Jordan 4 Retro ",
+      "price": 2000,
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "image": "/image/13.webp"
+    },
+    {
+      "id": 15,
+      "name": "Giày Air Jordan 4 Retro ",
+      "price": 2000,
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "image": "/image/14.webp"
+    },
+    {
+      "id": 14,
+      "name": "Giày Air Jordan 4 Retro ",
+      "price": 2000,
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "image": "/image/15.webp"
+    },
+    {
+      "id": 13,
+      "name": "Giày Air Jordan 4 Retro ",
+      "price": 2000,
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "image": "/image/16.webp"
+    },
+    {
+      "id": 12,
+      "name": "Giày Air Jordan 4 Retro ",
+      "price": 2000,
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "image": "/image/17.webp"
+    },
+    {
+      "id": 11,
+      "name": "Giày Air Jordan 4 Retro ",
+      "price": 2000,
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "image": "/image/18.webp"
+    },
+    {
+      "id": 10,
+      "name": "Giày Air Jordan 4 Retro ",
+      "price": 2000,
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "image": "/image/19.webp"
+    },
+    {
+      "id": 9,
+      "name": "Giày Air Jordan 4 Retro ",
+      "price": 2000,
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "image": "/image/20.webp"
+    },
+    {
+      "id": 8,
+      "name": "Giày Air Jordan 4 Retro ",
+      "price": 2000,
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "image": "/image/21.webp"
+    },
+    {
+      "id": 7,
+      "name": "Giày Air Jordan 4 Retro ",
+      "price": 2000,
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "image": "/image/22.webp"
+    },
+    {
+      "id": 6,
+      "name": "Giày Air Jordan 4 Retro ",
+      "price": 2000,
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "image": "/image/23.webp"
+    },
+    {
+      "id": 5,
+      "name": "Giày Air Jordan 4 Retro ",
+      "price": 2000,
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "image": "/image/24.webp"
+    },
+    {
+      "id": 4,
+      "name": "Giày Air Jordan 4 Retro ",
+      "price": 2000,
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "image": "/image/25.webp"
+    },
+    {
+      "image": "/image/26.webp",
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "price": 5000,
+      "name": "Giày Air Jordan 4 Retro",
+      "id": 3
+    },
+    {
+      "image": "/image/27.jpeg",
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "price": 4000,
+      "name": "Giày Air Jordan 4 Retro",
+      "id": 2
+    },
+    {
+      "id": 30,
+      "name": "Giày Air Jordan 4 Retro ",
+      "price": 2000,
+      "description": "Air Jordan 4 Retro Seafoam hiện đã có sẵn tại Sneaker Daily Shop với mức giá hấp dẫn, đừng bỏ lỡ cơ hội của mình nhé! Cập nhật nhanh nhất lịch ra mắt của các mẫu giày mới nhất và tin tức thời trang trong nước và trên thế giới bằng cách theo dõi Sneaker Daily trên Facebook hoặc Instagram",
+      "image": "/image/28.webp"
+    }
+  ]
+}

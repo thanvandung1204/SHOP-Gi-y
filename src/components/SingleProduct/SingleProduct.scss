@@ -1,0 +1,231 @@
+
+@import "../../css-config/mixins.scss";
+
+.single-product-main-content{
+    margin: 20px 0;
+    @include md{
+        margin: 75px 0;
+    }
+    .layout{
+        max-width: calc(100% - 20px);
+        margin: 0 auto;
+        @include md{
+            max-width: 1200px;
+        }
+        .single-product-page{
+            display: flex;
+            flex-direction: column;
+            @include md{
+                flex-direction: row;
+            }
+            .left{
+                width: 100%;
+                background-color: rgba(0,0,0,0.5);
+                flex-shrink: 0;
+                @include md{
+                    width: 600px;
+                    height: 600px;
+                }
+                img{
+                    width: 100%;
+                    display: block;
+                }
+            }
+            .right{
+                display: flex;
+                flex-direction: column;
+                padding-top: 20px;
+                @include md{
+                    padding: 0 35px;
+                }
+                .name{
+                    font-size: 35px;
+                    line-height: 28px;
+                    margin-bottom: 20px;
+                    @include md{
+                        font-size: 24px;
+                        line-height: 32px;
+
+                    }
+                }
+                .price{
+                    font-size: 24px;
+                    line-height: 32px;
+                    margin-bottom: 20px;
+                }
+                .desc{
+                    font-size: 16px;
+                    line-height: 20px;
+                    margin-bottom: 20px;
+                    color: #6b6b6b;
+                    @include md{
+                        font-size: 16px;
+                        line-height: 24px;
+                      
+                    }
+                }
+                .cart-buttons{
+                    display: flex;
+                    @include md{
+                        margin-top: 30px;
+                    }
+                    .quanlity-buttons{
+                        width: fit-content;
+                        display: flex;
+                        border: 2px solid rgba(0,0,0,0.2);
+                        margin-right: 10px;
+                        height: 50px;
+                        span{
+                            font-size: 18px;
+                            width: 40px;
+                            display: flex;
+                            align-items: center;
+                            justify-content: center;
+                            cursor: pointer;
+                            color: #6b6b6b;
+                            &:nth-child(1){
+                            border-right: 2px solid rgba(0,0,0,0.2);
+
+                            }
+                            &:nth-child(2){
+                                width: 60px;
+                            }
+                            &:nth-child(3){
+                                border-left: 2px solid rgba(0,0,0,0.2);
+    
+                            }
+                        }
+                    }
+                    .add-to-cart{
+                        outline: 0;
+                        border: 0;
+                        gap: 5px;
+                        height: 50px;
+                        width: 180px;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        cursor: pointer;
+                        font-size: 16px;
+                        color:white;
+                        background: #8e2;
+                        border-bottom: 3px solid #8e2;
+                        flex-grow: 1;
+                        @include md{
+                            flex-grow: unset;
+                        }
+                    }
+                }
+                .divider{
+                    margin: 20px 0;
+                    height: 1px;
+                    width: 100%;
+                    background-color: rgba(0,0,0,0.5);
+                }
+                .info-item{
+                   
+                    .text-bold{
+                       
+                        font-size: 24px;
+                        font-weight: 500;
+                        display: block;
+                        &:nth-child(1){
+                            margin-bottom: 20px;
+                        }
+                        span{
+                            font-size: 19px;
+                            font-weight: 400;cursor: pointer;
+                            color:#6b6b6b
+                        }
+                        svg{
+                            margin: 0 5px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+.success-boxx {
+  /*Địnhnghĩakiểuhiểnthịchobảngsuccess*/display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 20%;
+  opacity: 0.8;
+  left: 88%;
+  transform: translate(-50%, -60%);
+  width: 300px;
+  height: 80px;
+  background-color: whitesmoke;
+  border: 1px solid #000000;
+  border-radius: 8px;
+  /*Thêmhiệuứnghoạthìnhchobảngsuccess*/animation-name: successAnimation;
+  animation-duration: 0s;
+  animation-timing-function: ease-in-out;
+  -webkit-transform: translate(-50%, -60%);
+  -moz-transform: translate(-50%, -60%);
+  -ms-transform: translate(-50%, -60%);
+  -o-transform: translate(-50%, -60%);
+}
+
+.success-text {
+  /* Định nghĩa kiểu hiển thị cho văn bản trong bảng success */
+  text-align: center;
+  font-size: 27px;
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+@keyframes successAnimation {
+  0% {
+    transform: scale(0.5);
+    opacity: 0;
+    -webkit-transform: scale(0.5);
+    -moz-transform: scale(0.5);
+    -ms-transform: scale(0.5);
+    -o-transform: scale(0.5);
+}
+  50% {
+    transform: scale(1.2);
+    opacity: 1;
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
+}
+  100% {
+    transform: scale(1);
+    opacity: 1;
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+}
+}
+
+.tick-icon {
+  /* Định nghĩa kiểu hiển thị cho biểu tượng dấu tick */
+  margin-right: 10px;
+  color: #00cc00;
+  font-size: 54px;
+  animation-name: tickAnimation;
+  animation-duration: 2s;
+  animation-timing-function: ease-in-out;
+}
+
+@keyframes tickAnimation {
+  0% {
+    opacity: 0;
+    transform: scale(0.5);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.2);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
